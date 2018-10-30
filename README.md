@@ -2,7 +2,7 @@
 1. [PROBLEM](README.md#problem)
 2. [APPROACH](README.md#approach)
 3. [RUN INSTRUCTIONS](README.md#run-instructions)
-4. [SPECIAL NOTE REGARDING SOC_CODE AND SOC_NAME](special-note-regarding-soc_code-and-soc_name)
+4. [SPECIAL NOTE REGARDING SOC_CODE AND SOC_NAME](README.md#special-note-regarding-soc_code-and-soc_name)
 
 # PROBLEM
 
