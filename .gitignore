@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+insight_testsuite/temp/**/*
+insight_testsuite/results.txt
+
 # C extensions
 *.so
 
